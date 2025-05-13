@@ -12,12 +12,16 @@
 <!--About Me-->
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+<picture> <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ethereum_logo_2014.svg/1257px-Ethereum_logo_2014.svg.png" width = 200px></picture>
 
-- :school: I am second year `BSc. Computer Science` at University of Southampton
-<!-- :boom: You can visit [MY WEBSITE](https://yourwebsite.com) for some knowledge -->
+- :school: I'm a second year `BSc. Computer Science` student at University of Southampton
+- :briefcase: Currently working as a `Full Stack Developer Intern` at [Tokunize](https://www.tokunize.com/), building smart contracts for real estate tokenization
+- :trophy: Winner of multiple blockchain hackathons including Encode London AIxWeb3 (GuardFi) and ETH Oxford (AssetXchange)
+- :computer: Developed `CodeGene`, an AI-powered smart contract insurance platform that secured 1st place in Nethermind's bounty
+- :zap: Vice President of `Decentralised Society` at Southampton - [Join our Discord](https://discord.gg/gZxk25AW)
 - :email: **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=OjasArora&amp;color=EA4335&amp;style=flat-square)](ojas4jan@gmail.com)
-- :nerd_face: One block at a time, keep building!
+- :globe_with_meridians: Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ojas-arora-b62430231/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/OjasArora77)
+- :nerd_face: Building the decentralized future, one block at a time!
 
 <br>
 
@@ -26,19 +30,26 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=Haskell&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 20px>  </picture> Web3 & Blockchain Development
 
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Smart_Contracts-ERC20_ERC3643_NFTs-blue?style=flat-square)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=Hardhat&logoColor=black)
+![Foundry](https://img.shields.io/badge/Foundry-FFD700?style=flat-square&logo=Foundry&logoColor=black)
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 20px>  </picture> Frontend Development
+
 ![React.js](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
-![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=flat-square&logo=OpenZeppelin&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Software & Tools
 
@@ -51,6 +62,38 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px>  </picture> Operating Systems
 
 ![MacOS](https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=macOS&logoColor=white)
+
+<br>
+
+## 💼 Work Experience
+
+### Full Stack Developer Intern at [Tokunize](https://www.tokunize.com/) (03/2025 - Present)
+- Building and maintaining smart contracts for tokenizing real estate using Solidity
+- Contributing to Django backend infrastructure for property transactions
+- Designing and implementing React.js frontend with TypeScript
+- Integrating blockchain workflows with traditional backend systems
+
+Tokunize is a commercial real estate technology company leveraging blockchain to simplify and secure property transactions through Digital Property Tokens (DPTs). The platform transforms home equity into an investable, digital asset for institutional investors.
+
+### Software Developer Intern at [Altair](https://altair.com/) (06/2024 - 09/2024)
+- Improved SAS code analyzer tool for Altair Analytics Workbench 2025
+- Developed Mockito-based tests for Java classes and Eclipse Java plugins
+
+<br>
+
+## 🏆 Hackathon Projects
+
+### [GuardFi](https://github.com/manukj/GuardFi) - Encode London AIxWeb3 2024
+- Decentralized insurance platform for smart contract risk assessment
+- Won $3,000 bounty from Flare Network
+
+### [AssetXchange](https://github.com/ojasarora77/AssetXchange) - ETH Oxford 2024
+- Platform for tokenizing real-world assets through a no-code DApp
+- Won a main track prize
+
+### [CodeGene](https://github.com/ojasarora77/smart-contract-auditor) - Encode AI Hackathon 2025
+- Smart contract insurance platform with AI-powered risk assessment
+- 1st place in Nethermind "Create your Agentic Future" bounty
 
 <br>
 
