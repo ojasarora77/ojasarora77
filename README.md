@@ -15,7 +15,7 @@
 <picture> <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ethereum_logo_2014.svg/1257px-Ethereum_logo_2014.svg.png" width = 200px></picture>
 
 - :school: I'm a second year `BSc. Computer Science` student at University of Southampton
-- :briefcase: Currently working as a `Full Stack Developer Intern` at [Tokunize](https://www.tokunize.com/), building smart contracts for real estate tokenization
+- :briefcase: Currently working as a `Full Stack Developer` at [Tokunize](https://www.tokunize.com/), building smart contracts for real estate tokenization
 - :trophy: Winner of multiple blockchain hackathons including Encode London AIxWeb3 (GuardFi) and ETH Oxford (AssetXchange)
 - :computer: Developed `CodeGene`, an AI-powered smart contract insurance platform that secured 1st place in Nethermind's bounty
 - :zap: Vice President of `Decentralised Society` at Southampton - [Join our Discord](https://discord.gg/gZxk25AW)
@@ -67,7 +67,7 @@
 
 ## 💼 Work Experience
 
-### Full Stack Developer Intern at [Tokunize](https://www.tokunize.com/) (03/2025 - Present)
+### Full Stack Developer at [Tokunize](https://www.tokunize.com/) (03/2025 - Present)
 - Building and maintaining smart contracts for tokenizing real estate using Solidity
 - Contributing to Django backend infrastructure for property transactions
 - Designing and implementing React.js frontend with TypeScript
