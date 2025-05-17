@@ -14,7 +14,7 @@
 
 <picture> <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ethereum_logo_2014.svg/1257px-Ethereum_logo_2014.svg.png" width = 200px></picture>
 
-- :school: I'm a second year `BSc. Computer Science` student at University of Southampton
+- :school: I'm a final year `BSc. Computer Science` student at University of Southampton
 - :briefcase: Currently working as a `Full Stack Developer` at [Tokunize](https://www.tokunize.com/), building smart contracts for real estate tokenization
 - :trophy: Winner of multiple blockchain hackathons including Encode London AIxWeb3 (GuardFi) and ETH Oxford (AssetXchange)
 - :computer: Developed `CodeGene`, an AI-powered smart contract insurance platform that secured 1st place in Nethermind's bounty
