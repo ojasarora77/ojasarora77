@@ -14,14 +14,15 @@
 
 <picture> <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ethereum_logo_2014.svg/1257px-Ethereum_logo_2014.svg.png" width = 200px></picture>
 
-- :school: I'm a second year `BSc. Computer Science` student at University of Southampton
-- :briefcase: Currently working as a `Full Stack Developer` at [0em](https://0emlabs.com/) and [Tokunize](https://www.tokunize.com/), building smart contracts for real estate tokenization and escrow systems
-- :trophy: Winner of multiple blockchain hackathons including Encode London AIxWeb3 (GuardFi) and ETH Oxford (AssetXchange)
+- :school: I'm a third year `BSc. Computer Science` student at University of Southampton
+- :briefcase: Currently working as a `Full Stack Developer` at [0em](https://0emlabs.com/), developing escrow contracts for stable coins
+- :memo: Previously worked at [Tokunize](https://www.tokunize.com/), used Django and react for web development and developed smart contracts for RWA tokenisation
+- :trophy: Winner of multiple blockchain hackathons, including Encode London AIxWeb3 (GuardFi) and ETH Oxford (AssetXchange)
 - :computer: Developed `CodeGene`, an AI-powered smart contract insurance platform that secured 1st place in Nethermind's bounty
 - :zap: Vice President of `Decentralised Society` at Southampton - [Join our Discord](https://discord.gg/gZxk25AW)
 - :email: **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=OjasArora&amp;color=EA4335&amp;style=flat-square)](ojas4jan@gmail.com)
 - :globe_with_meridians: Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ojas-arora-b62430231/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/OjasArora77)
-- :nerd_face: Building the decentralized future, one block at a time!
+- :ticket: Building the decentralised future, one block at a time
 
 <br>
 
@@ -65,17 +66,21 @@
 
 <br>
 
-## 💼 Work Experience
-
-### Full Stack Developer at [Tokunize](https://www.tokunize.com/) (03/2025 - Present)
-- Building and maintaining smart contracts for tokenizing real estate using Solidity
-- Contributing to Django backend infrastructure for property transactions
-- Designing and implementing React.js frontend with TypeScript
+### 💼 Work Experience
+## Full Stack Developer at [0em](https://0emlabs.com/) (06/2025 - Present)
+The MCP Marketplace — Powering Zero-Employee Companies
+- Building and maintaining smart contracts for stable coin escrow systems
 - Integrating blockchain workflows with traditional backend systems
 
-Tokunize is a commercial real estate technology company leveraging blockchain to simplify and secure property transactions through Digital Property Tokens (DPTs). The platform transforms home equity into an investable, digital asset for institutional investors.
 
-### Software Developer Intern at [Altair](https://altair.com/) (06/2024 - 09/2024)
+## Full Stack Developer at [Tokunize](https://www.tokunize.com/) (03/2025 - 06/2025)
+Tokunize is a commercial real estate technology company leveraging blockchain to simplify and secure property transactions through Digital Property Tokens (DPTs). The platform transforms home equity into an investable, digital asset for institutional investors.
+- Building and maintaining smart contracts for tokenizing real estate using Solidity
+- Contributing to Django backend infrastructure for property transactions
+- Designing and implementing React.js frontend with Django
+
+
+## Software Developer Intern at [Altair](https://altair.com/) (06/2024 - 09/2024)
 - Improved SAS code analyzer tool for Altair Analytics Workbench 2025
 - Developed Mockito-based tests for Java classes and Eclipse Java plugins
 
