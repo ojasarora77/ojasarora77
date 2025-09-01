@@ -15,7 +15,8 @@
 <picture> <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ethereum_logo_2014.svg/1257px-Ethereum_logo_2014.svg.png" width = 200px></picture>
 
 - :school: I'm a third year `BSc. Computer Science` student at University of Southampton
-- :briefcase: Currently working as a `Full Stack Developer` at [0em](https://0emlabs.com/), developing escrow contracts for stable coins
+- :blue_book: Currently working as a `Full Stack Developer` at [Bond.Credit](https://bond.credit/), Building the credit layer for the agentic economy
+- :briefcase: Currently working as a `Full Stack Developer` at [0em](https://0emlabs.com/), developing smart wallet smart contracts for agentic stable coin payments
 - :memo: Previously worked at [Tokunize](https://www.tokunize.com/), used Django and react for web development and developed smart contracts for RWA tokenisation
 - :trophy: Winner of multiple blockchain hackathons, including Encode London AIxWeb3 (GuardFi) and ETH Oxford (AssetXchange)
 - :computer: Developed `CodeGene`, an AI-powered smart contract insurance platform that secured 1st place in Nethermind's bounty
