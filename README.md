@@ -68,7 +68,7 @@
 <br>
 
 ### 💼 Work Experience
-## Full Stack Developer at Bond.credit (08/2025 - Present)
+## Full Stack Developer at [Bond.Credit](https://bond.credit/) (08/2025 - Present)
 Building cryptonative credit infrastructure for autonomous agents - enabling trust-based lending against performance and reputation rather than just collateral.
 - Developing agentic credit rating algorithms using iExec's TEE for secure computation of agent performance metrics
 - Creating Next.js frontend and backend services for credit assessment dashboards and agent reputation tracking
