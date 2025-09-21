@@ -68,13 +68,19 @@
 <br>
 
 ### 💼 Work Experience
-## Full Stack Developer at [0em](https://0emlabs.com/) (06/2025 - Present)
+## Full Stack Developer at Bond.credit (08/2025 - Present)
+Building cryptonative credit infrastructure for autonomous agents - enabling trust-based lending against performance and reputation rather than just collateral.
+- Developing agentic credit rating algorithms using iExec's TEE for secure computation of agent performance metrics
+- Creating Next.js frontend and backend services for credit assessment dashboards and agent reputation tracking
+
+
+## Full Stack Developer at [0em](https://0emlabs.com/) (06/2025 - 09/2025)
 The MCP Marketplace — Powering Zero-Employee Companies
 - Building and maintaining smart contracts for stable coin escrow systems
 - Integrating blockchain workflows with traditional backend systems
 
 
-## Full Stack Developer at [Tokunize](https://www.tokunize.com/) (03/2025 - 06/2025)
+## Full Stack Developer(Intern) at [Tokunize](https://www.tokunize.com/) (03/2025 - 06/2025)
 Tokunize is a commercial real estate technology company leveraging blockchain to simplify and secure property transactions through Digital Property Tokens (DPTs). The platform transforms home equity into an investable, digital asset for institutional investors.
 - Building and maintaining smart contracts for tokenizing real estate using Solidity
 - Contributing to Django backend infrastructure for property transactions
