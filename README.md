@@ -48,7 +48,7 @@ I am a **Computer Science Student** at the **University of Southampton** and an 
 ### 💼 Work Experience
 
 **Full Stack Developer | [Bond.Credit](https://bond.credit/)**
-*08/2025 - Present*
+*08/2025 - 11/2025*
 Building cryptonative credit infrastructure for autonomous agents.
 - Developing agentic credit rating algorithms using iExec's TEE.
 - Creating Next.js frontend and backend services for reputation tracking.
