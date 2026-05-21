@@ -1,95 +1,104 @@
-# Hi there, I'm Ojas Arora 
+# Ojas Arora
 
-**Full Stack Developer & Blockchain Engineer**
-*Building the decentralized future, one block at a time.*
+**Smart Contract Developer | DeFi Infrastructure**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ojas-arora-b62430231/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-black?style=for-the-badge&logo=twitter)](https://x.com/OjasArora77)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-black?style=for-the-badge&logo=gmail)](mailto:ojas4jan@gmail.com)
-
----
-
-### 👨‍💻 About Me
-
-I am a **Computer Science Student** at the **University of Southampton** and an experienced Full Stack Web3 Developer. I specialize in building credit layers for agentic economies, smart wallet infrastructure, and RWA tokenization.
-
-* **Current Role:** Smart Contract Developer at [Orion Finance](https://orionfinance.ai/)
-* **Leadership:** Vice President of the `Decentralised Society` at Southampton.
-* **Achievements:** Winner of multiple blockchain hackathons (Encode London, ETH Oxford).
-* **Key Interest:** AI-powered Smart Contracts & Decentralized Finance (DeFi).
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ojas-arora-b62430231/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/OjasArora77)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ojas4jan@gmail.com)
 
 ---
 
-### 🛠️ Technical Stack
+## About
 
-**Languages**
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat-square&logo=solidity&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white)
+BSc Computer Science student at the University of Southampton, specializing in smart contract development and DeFi infrastructure. Currently building institutional-grade vault systems at [Orion Finance](https://orionfinance.ai/) and trust infrastructure for autonomous agents at [Lyneth Labs](https://lyneth.ai/).
 
-**Web3 & Blockchain**
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black)
-![Foundry](https://img.shields.io/badge/Foundry-FFDB1C?style=flat-square&logo=foundry&logoColor=black)
-![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
-![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-ERC20_|_ERC3643-black?style=flat-square)
-
-**Full Stack Development**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+**Current Focus:** ERC4626 vault architecture, onchain risk analysis, and decentralized trust systems for agentic economies.
 
 ---
 
-### 💼 Work Experience
+## Experience
 
-**Full Stack Developer | [Bond.Credit](https://bond.credit/)**
-*08/2025 - 11/2025*
-Building cryptonative credit infrastructure for autonomous agents.
-- Developing agentic credit rating algorithms using iExec's TEE.
-- Creating Next.js frontend and backend services for reputation tracking.
+### Smart Contract Developer | [Orion Finance](https://orionfinance.ai/)
+*November 2025 - Present*
 
-**Full Stack Developer | [0em](https://0emlabs.com/)**
-*06/2025 - 09/2025*
-Powering Zero-Employee Companies via the MCP Marketplace.
-- Built smart contracts for stable coin escrow systems.
-- Integrated blockchain workflows with traditional backend systems.
+Building ERC4626 vault infrastructure for institutional DeFi portfolio management.
+- Developed modular vault factory enabling configurable asset allocations and fee structures
+- Built strategy adapters connecting vaults to Uniswap, Morpho, Lido, and Yearn
+- Conducted onchain data analysis calculating Sharpe ratios, VaR, and maximum drawdown
+- Optimized gas costs across deployment scenarios with comprehensive Hardhat test suites
 
-**Full Stack Developer (Intern) | [Tokunize](https://www.tokunize.com/)**
-*03/2025 - 06/2025*
-Real estate technology leveraging blockchain for Digital Property Tokens (DPTs).
-- Maintained smart contracts for RWA tokenization using Solidity.
-- Designed React.js frontend integrated with Django backend.
+### Full Stack Developer | [Bond.credit](https://bond.credit/)
+*August 2025 - November 2025*
 
-**Software Developer Intern | [Altair](https://altair.com/)**
-*06/2024 - 09/2024*
-- Improved SAS code analyzer tool for Altair Analytics Workbench.
-- Developed Mockito-based tests for Java classes and Eclipse plugins.
+Built cryptonative credit infrastructure for autonomous agents.
+- Developed credit rating algorithms using ERC8004 and iExec's TEE for secure computation
+- Created Solidity contracts for credit vaults and agUSD stablecoin minting
 
----
+### Full Stack Developer | [0em Labs](https://0emlabs.com/)
+*June 2025 - September 2025*
 
-### 🏆 Hackathon Highlights
+Built stablecoin payment gateways and MCP marketplaces using Cloudflare Workers and WalletConnect.
 
-| Project | Hackathon | Achievement |
-| :--- | :--- | :--- |
-| **[CodeGene](https://github.com/ojasarora77/smart-contract-auditor)** | Encode AI 2025 | 🥇 **1st Place** (Nethermind Bounty)<br>AI-powered smart contract insurance. |
-| **[GuardFi](https://github.com/manukj/GuardFi)** | Encode London AIxWeb3 | 🏆 **$3,000 Prize** (Flare Network)<br>Decentralized risk assessment platform. |
-| **[AssetXchange](https://github.com/ojasarora77/AssetXchange)** | ETH Oxford 2024 | 🏅 **Main Track Prize**<br>No-code DApp for RWA tokenization. |
+### Full Stack Developer | [Tokunize](https://www.tokunize.com/)
+*March 2025 - June 2025*
+
+Developed React.js/Django platform for fractional real estate tokenization with smart contract integration.
 
 ---
 
-### 📊 GitHub Stats
+## Hackathons & Awards
+
+**CodeGene** | Encode AI Hackathon 2025  
+🥇 1st Place Nethermind Bounty | AI-powered smart contract security platform  
+[Live Demo](https://codegene-theta.vercel.app/) | [GitHub](https://github.com/ojasarora77/smart-contract-auditor)
+
+**GuardFi** | Encode London AIxWeb3 2024  
+🏆 $3,500 in Bounties | Decentralized insurance using AI risk assessment  
+[Live Demo](https://guardfi-clone-nextjs.vercel.app/) | [GitHub](https://github.com/manukj/GuardFi)
+
+**AssetXchange** | ETH Oxford 2024  
+🏅 Main Track Winner | No-code platform for RWA tokenization  
+[Live Demo](https://asset-x-change-frontend.vercel.app/) | [GitHub](https://github.com/ojasarora77/AssetXchange)
+
+---
+
+## Technical Skills
+
+**Languages:** Solidity, Python, TypeScript, Java, Haskell, SQL
+
+**Blockchain:** Hardhat, Foundry, Web3.js, Ethers.js, OpenZeppelin
+
+**Token Standards:** ERC20, ERC721, ERC3643, ERC4626, ERC8004
+
+**Web & Backend:** Next.js, React.js, Django, Node.js
+
+**Tools:** Git, Docker, Azure, REST APIs
+
+---
+
+## Education
+
+**BSc Computer Science** | University of Southampton  
+*2023 - 2026*
+
+Key modules: Algorithms, Machine Learning, Distributed Systems, Cyber Security
+
+**Final Year Project:** Training LLM models for smart contract auditing using 10k+ production contracts with HuggingFace, PyTorch, and scikit-learn.
+
+---
+
+## GitHub Stats
 
 <div align="left">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ojasarora77&theme=dark&hide_border=true" height="150" alt="streak graph" />
-  </a>
-  <br>
-  <a href="https://github.com/ojasarora77">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ojasarora77&theme=dark&hide_border=true&layout=compact" height="150" alt="languages graph" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ojasarora77&theme=dark&hide_border=true" height="165" alt="streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojasarora77&theme=dark&hide_border=true&layout=compact" height="165" alt="language stats" />
 </div>
+
+---
+
+## Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ojas-arora-b62430231/)
+- 🐦 [Twitter/X](https://x.com/OjasArora77)
+- 📧 [Email](mailto:ojas4jan@gmail.com)
+- 🌐 [Lyneth Labs](https://lyneth.ai/)
