@@ -101,4 +101,3 @@ Key modules: Algorithms, Machine Learning, Distributed Systems, Cyber Security
 - 💼 [LinkedIn](https://www.linkedin.com/in/ojas-arora-b62430231/)
 - 🐦 [Twitter/X](https://x.com/OjasArora77)
 - 📧 [Email](mailto:ojas4jan@gmail.com)
-- 🌐 [Lyneth Labs](https://lyneth.ai/)
