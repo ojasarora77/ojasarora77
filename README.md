@@ -10,7 +10,7 @@
 
 ## About
 
-BSc Computer Science student at the University of Southampton, specializing in smart contract development and DeFi infrastructure. Currently building institutional-grade vault systems at [Orion Finance](https://orionfinance.ai/) and trust infrastructure for autonomous agents at [Lyneth Labs](https://lyneth.ai/).
+BSc Computer Science student at the University of Southampton, specializing in smart contract development and DeFi infrastructure. Currently building institutional-grade vault systems at [Orion Finance](https://orionfinance.ai/) .
 
 **Current Focus:** ERC4626 vault architecture, onchain risk analysis, and decentralized trust systems for agentic economies.
 
